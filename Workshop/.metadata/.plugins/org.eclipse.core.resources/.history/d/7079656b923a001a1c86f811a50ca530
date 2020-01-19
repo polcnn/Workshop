@@ -1,0 +1,7 @@
+package th.ac.kku.member;
+
+public class Member {
+	public Member(String string, int i) {
+		
+	}
+}

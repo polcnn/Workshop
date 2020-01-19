@@ -1,0 +1,17 @@
+package th.ac.kku.member;
+
+public class Level {
+	// check order more than 4 orders
+	// targetOrders
+	
+	// and spend more than 1000 bath
+	
+	// and with in 6 months
+	
+	// and sequence in between 1 - 199 candidates
+	
+	public Member up(Member member) {
+		return member;
+	}
+	
+}

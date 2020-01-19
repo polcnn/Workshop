@@ -1,0 +1,28 @@
+package th.ac.kku.member;
+
+public class Main {
+	//public static void main(String ...args)
+	public static void main(String[] args) {
+
+	}
+	
+	public class members {
+		public String Gold() {
+			return "Gold";
+		}
+		
+		public String Silver() {
+			return "Silver";
+		}
+		
+		public String getRank(int order, int price, int month, int person) {
+			if ((order == 4 ) & (price == 1000) & (month == 6) & (person < 200)) {
+				return Gold();
+			} else if ((order >= 4 ) & (price >= 1000) & (month <= 6) & (person > 200)) {
+				return Silver();
+			} else {
+				return "Non-Rank"; 
+			}
+		}
+	}
+}

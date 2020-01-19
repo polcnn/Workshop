@@ -1,0 +1,5 @@
+package th.ac.kku.member;
+
+public interface Order {
+	int getTargetOrder(int id);
+}

@@ -1,0 +1,8 @@
+package th.ac.kku.member;
+
+public class Order {
+	public Order() {
+		
+	}
+	
+}

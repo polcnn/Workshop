@@ -1,0 +1,9 @@
+package th.ac.kku.member;
+
+public class Level {
+
+	public Member up(Member member) {
+		return 0;
+	}
+	
+}

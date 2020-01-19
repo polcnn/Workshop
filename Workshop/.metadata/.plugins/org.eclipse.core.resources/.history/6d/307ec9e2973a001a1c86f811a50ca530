@@ -1,0 +1,20 @@
+package th.ac.kku.member;
+
+public class Member {
+	private final String Level;
+	private final int SpecialPoint;
+	
+	public Member(String Level, int SpecialPoint) {
+		this.Level = Level;
+		this.SpecialPoint = SpecialPoint;
+	}
+
+	public String getLevel() {
+		return Level;
+	}
+
+	public int getSpecialPoint() {
+		return SpecialPoint;
+	}
+	
+}

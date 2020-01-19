@@ -1,0 +1,10 @@
+package th.ac.kku.member;
+
+public class Level {
+
+	public Member up(Member member) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

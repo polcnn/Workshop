@@ -1,0 +1,13 @@
+package th.ac.kku.member;
+
+public class Main {
+	//public static void main(String ...args)
+	public static void main(String[] args) {
+		members m = new members();
+	}
+	
+	public class members {
+		
+	}
+	
+}

@@ -1,0 +1,12 @@
+package th.ac.kku.member;
+
+public class Order {
+	public Order() {
+		
+	}
+
+	public void getTargetOrder(int id) {
+		
+	}
+	
+}
